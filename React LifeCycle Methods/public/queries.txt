@@ -1,0 +1,2 @@
+1) How is it identifying state changes and rendering?
+2) inter relation of dependencies btw two comp?
