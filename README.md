@@ -54,4 +54,4 @@
 - Web Performance
   -Redux Knowledge
 
-#### For JS I also added topics from : [JS 33 concept] (https://github.com/leonardomso/33-js-concepts)
+#### For JS I also added topics from : [JS 33 concept](https://github.com/leonardomso/33-js-concepts)
