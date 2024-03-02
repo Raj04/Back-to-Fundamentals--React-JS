@@ -14,8 +14,7 @@
 - Expression vs Statement
 - IIFE, Modules and Namespaces
 - Message Queue and Event Loop
-- setTimeout, setInterval and requestAnimationFrame
-- JavaScript Engines
+- setTimeout, setInterval and requestAnimationFrame, how JS Engine works here
 - Bitwise Operators, Type Arrays and Array Buffers
 - DOM and Layout Trees
 - Factories and Classes
